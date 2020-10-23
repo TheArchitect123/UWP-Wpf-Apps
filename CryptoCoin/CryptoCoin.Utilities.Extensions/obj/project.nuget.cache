@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "xid6+XqUOJpHmbgL144DN/10Clj1SZODeQX7eXuFdCsyaKl1g8ygP33DlLflqXpiq4H27tzIOzxg+EAcmfK/JA==",
+  "success": true,
+  "projectFilePath": "C:\\WindowsUWP\\UWP-Wpf-Apps\\CryptoCoin\\CryptoCoin.Utilities.Extensions\\CryptoCoin.Utilities.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dan Gerchcovich\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dan Gerchcovich\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
