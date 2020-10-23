@@ -47,6 +47,14 @@
               "target": "Package",
               "version": "[2.0.3, )",
               "autoReferenced": true
+            },
+            "Plugin.Security": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "System.Diagnostics.EventLog": {
+              "target": "Package",
+              "version": "[4.7.0, )"
             }
           },
           "imports": [

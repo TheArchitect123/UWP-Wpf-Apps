@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "xid6+XqUOJpHmbgL144DN/10Clj1SZODeQX7eXuFdCsyaKl1g8ygP33DlLflqXpiq4H27tzIOzxg+EAcmfK/JA==",
+  "dgSpecHash": "6haTfjIBJb7YlqN5eZ1//uIxFeKojqqQ0AvMPKXPhY0IqMwhHYl87jv98G/vemTjq+FtNqUcEwldZF/XEvFKbg==",
   "success": true,
   "projectFilePath": "C:\\WindowsUWP\\UWP-Wpf-Apps\\CryptoCoin\\CryptoCoin.Utilities.Extensions\\CryptoCoin.Utilities.Extensions.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dan Gerchcovich\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\Dan Gerchcovich\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\Dan Gerchcovich\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Dan Gerchcovich\\.nuget\\packages\\plugin.security\\1.0.2\\plugin.security.1.0.2.nupkg.sha512",
+    "C:\\Users\\Dan Gerchcovich\\.nuget\\packages\\system.diagnostics.eventlog\\4.7.0\\system.diagnostics.eventlog.4.7.0.nupkg.sha512",
+    "C:\\Users\\Dan Gerchcovich\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

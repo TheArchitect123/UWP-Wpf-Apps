@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CryptoCoin.Utilities.Extensions
+namespace CryptoCoin.Domain
 {
     public class Class1
     {

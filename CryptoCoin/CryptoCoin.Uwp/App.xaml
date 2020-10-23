@@ -1,7 +1,17 @@
-﻿<Application
+﻿<caliburn:CaliburnApplication
+    xmlns:caliburn="using:Caliburn.Micro"
     x:Class="CryptoCoin.Uwp.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
     xmlns:local="using:CryptoCoin.Uwp">
-
-</Application>
+    <Application.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/ResourceDictionaries/Fonts.xaml"/>
+                <ResourceDictionary Source="/ResourceDictionaries/Colours.xaml"/>
+                <ResourceDictionary Source="/ResourceDictionaries/ImageFileSources.xaml"/>
+                <ResourceDictionary Source="/ResourceDictionaries/Gradients.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</caliburn:CaliburnApplication>

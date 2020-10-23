@@ -1,0 +1,9 @@
+C:\WindowsUWP\UWP-Wpf-Apps\CryptoCoin\CryptoCoin.Utilities.Extensions\bin\Debug\netstandard2.0\CryptoCoin.Utilities.Extensions.deps.json
+C:\WindowsUWP\UWP-Wpf-Apps\CryptoCoin\CryptoCoin.Utilities.Extensions\bin\Debug\netstandard2.0\CryptoCoin.Utilities.Extensions.dll
+C:\WindowsUWP\UWP-Wpf-Apps\CryptoCoin\CryptoCoin.Utilities.Extensions\obj\Debug\netstandard2.0\CryptoCoin.Utilities.Extensions.AssemblyInfoInputs.cache
+C:\WindowsUWP\UWP-Wpf-Apps\CryptoCoin\CryptoCoin.Utilities.Extensions\obj\Debug\netstandard2.0\CryptoCoin.Utilities.Extensions.AssemblyInfo.cs
+C:\WindowsUWP\UWP-Wpf-Apps\CryptoCoin\CryptoCoin.Utilities.Extensions\obj\Debug\netstandard2.0\CryptoCoin.Utilities.Extensions.csprojAssemblyReference.cache
+C:\WindowsUWP\UWP-Wpf-Apps\CryptoCoin\CryptoCoin.Utilities.Extensions\obj\Debug\netstandard2.0\CryptoCoin.Utilities.Extensions.csproj.CoreCompileInputs.cache
+C:\WindowsUWP\UWP-Wpf-Apps\CryptoCoin\CryptoCoin.Utilities.Extensions\bin\Debug\netstandard2.0\CryptoCoin.Utilities.Extensions.pdb
+C:\WindowsUWP\UWP-Wpf-Apps\CryptoCoin\CryptoCoin.Utilities.Extensions\obj\Debug\netstandard2.0\CryptoCoin.Utilities.Extensions.dll
+C:\WindowsUWP\UWP-Wpf-Apps\CryptoCoin\CryptoCoin.Utilities.Extensions\obj\Debug\netstandard2.0\CryptoCoin.Utilities.Extensions.pdb

@@ -15,21 +15,23 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{FA73A514
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoCoin.Tests.ViewModels", "CryptoCoin.Tests.ViewModels\CryptoCoin.Tests.ViewModels.csproj", "{353F9120-1EEB-47FE-A5A5-8C2FD3B8CDEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoCoin.Utilities.Common", "CryptoCoin.Utilities.Common\CryptoCoin.Utilities.Common.csproj", "{1F778651-B47F-4180-B126-82E6A485AD2B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoCoin.Utilities.Common", "CryptoCoin.Utilities.Common\CryptoCoin.Utilities.Common.csproj", "{1F778651-B47F-4180-B126-82E6A485AD2B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoCoin.Utilities.Constants", "CryptoCoin.Utilities.Constants\CryptoCoin.Utilities.Constants.csproj", "{8B856AC8-7AC8-4CB1-A3AD-307ABD13C14C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoCoin.Utilities.Constants", "CryptoCoin.Utilities.Constants\CryptoCoin.Utilities.Constants.csproj", "{8B856AC8-7AC8-4CB1-A3AD-307ABD13C14C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoCoin.Utilities.Extensions", "CryptoCoin.Utilities.Extensions\CryptoCoin.Utilities.Extensions.csproj", "{20F52A22-BA0F-404C-A1AE-D42674E220C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoCoin.Utilities.Extensions", "CryptoCoin.Utilities.Extensions\CryptoCoin.Utilities.Extensions.csproj", "{20F52A22-BA0F-404C-A1AE-D42674E220C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoCoin.Utilities.Services", "CryptoCoin.Utilities.Services\CryptoCoin.Utilities.Services.csproj", "{9E75C734-176E-4561-8EB6-C7BE2D7B5E22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoCoin.Utilities.Services", "CryptoCoin.Utilities.Services\CryptoCoin.Utilities.Services.csproj", "{9E75C734-176E-4561-8EB6-C7BE2D7B5E22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoCoin.Utilities.Collections", "CryptoCoin.Utilities.Collections\CryptoCoin.Utilities.Collections.csproj", "{040FAC04-CE9E-4E52-B59A-F23985150589}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoCoin.Utilities.Collections", "CryptoCoin.Utilities.Collections\CryptoCoin.Utilities.Collections.csproj", "{040FAC04-CE9E-4E52-B59A-F23985150589}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{BC3E79EE-DC89-4E19-88AA-1420122E052E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{F32788DA-2B41-4C59-B947-5CED6246E0AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoCoin.Web.Consumer", "CryptoCoin.Web.Consumer\CryptoCoin.Web.Consumer.csproj", "{AE84C3C8-48D5-4333-89B0-AB7F3D48BADC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CryptoCoin.Web.Consumer", "CryptoCoin.Web.Consumer\CryptoCoin.Web.Consumer.csproj", "{AE84C3C8-48D5-4333-89B0-AB7F3D48BADC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CryptoCoin.Domain", "CryptoCoin.Domain\CryptoCoin.Domain.csproj", "{87F68A01-462E-4485-BEE3-8CACA2750AB0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -217,6 +219,26 @@ Global
 		{AE84C3C8-48D5-4333-89B0-AB7F3D48BADC}.Release|x64.Build.0 = Release|Any CPU
 		{AE84C3C8-48D5-4333-89B0-AB7F3D48BADC}.Release|x86.ActiveCfg = Release|Any CPU
 		{AE84C3C8-48D5-4333-89B0-AB7F3D48BADC}.Release|x86.Build.0 = Release|Any CPU
+		{87F68A01-462E-4485-BEE3-8CACA2750AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87F68A01-462E-4485-BEE3-8CACA2750AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87F68A01-462E-4485-BEE3-8CACA2750AB0}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{87F68A01-462E-4485-BEE3-8CACA2750AB0}.Debug|ARM.Build.0 = Debug|Any CPU
+		{87F68A01-462E-4485-BEE3-8CACA2750AB0}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{87F68A01-462E-4485-BEE3-8CACA2750AB0}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{87F68A01-462E-4485-BEE3-8CACA2750AB0}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{87F68A01-462E-4485-BEE3-8CACA2750AB0}.Debug|x64.Build.0 = Debug|Any CPU
+		{87F68A01-462E-4485-BEE3-8CACA2750AB0}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{87F68A01-462E-4485-BEE3-8CACA2750AB0}.Debug|x86.Build.0 = Debug|Any CPU
+		{87F68A01-462E-4485-BEE3-8CACA2750AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87F68A01-462E-4485-BEE3-8CACA2750AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87F68A01-462E-4485-BEE3-8CACA2750AB0}.Release|ARM.ActiveCfg = Release|Any CPU
+		{87F68A01-462E-4485-BEE3-8CACA2750AB0}.Release|ARM.Build.0 = Release|Any CPU
+		{87F68A01-462E-4485-BEE3-8CACA2750AB0}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{87F68A01-462E-4485-BEE3-8CACA2750AB0}.Release|ARM64.Build.0 = Release|Any CPU
+		{87F68A01-462E-4485-BEE3-8CACA2750AB0}.Release|x64.ActiveCfg = Release|Any CPU
+		{87F68A01-462E-4485-BEE3-8CACA2750AB0}.Release|x64.Build.0 = Release|Any CPU
+		{87F68A01-462E-4485-BEE3-8CACA2750AB0}.Release|x86.ActiveCfg = Release|Any CPU
+		{87F68A01-462E-4485-BEE3-8CACA2750AB0}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -230,6 +252,7 @@ Global
 		{9E75C734-176E-4561-8EB6-C7BE2D7B5E22} = {A60B9BB7-02EC-4864-AE4A-A72034FADD1E}
 		{040FAC04-CE9E-4E52-B59A-F23985150589} = {A60B9BB7-02EC-4864-AE4A-A72034FADD1E}
 		{AE84C3C8-48D5-4333-89B0-AB7F3D48BADC} = {F32788DA-2B41-4C59-B947-5CED6246E0AD}
+		{87F68A01-462E-4485-BEE3-8CACA2750AB0} = {56FEE03E-89E2-4829-8EA2-8B4F1C1F7894}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9E5D9C6B-C9B3-45DC-A717-10DA97272B9B}

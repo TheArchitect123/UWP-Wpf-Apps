@@ -1,0 +1,95 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <SolidColorBrush x:Key="IndigoBlue" Color="#4b7caa"/>
+    <SolidColorBrush x:Key="Red" Color="#ff0000"/>
+    <SolidColorBrush x:Key="GoldCommunity" Color="#ffbb00"/>
+    <SolidColorBrush x:Key="SettingsButton" Color="#3f51b5"/>
+    <SolidColorBrush x:Key="SettingsTitle" Color="#515151"/>
+    <SolidColorBrush x:Key="SettingsPlaceholder" Color="#b6b6b6"/>
+    <SolidColorBrush x:Key="CardBackground" Color="#0165a3"/>
+    <SolidColorBrush x:Key="RequestSection" Color="#1976d3"/>
+    <SolidColorBrush x:Key="MessagesTitle" Color="#979799"/>
+    <SolidColorBrush x:Key="BlueBar" Color="#00b7ff"/>
+
+    <SolidColorBrush x:Key="DarkTheme.SeperatorColor" Color="#38444d"/>
+    <SolidColorBrush x:Key="DarkTheme.ToastMessageBtnText" Color="#3ea6ff"/>
+    <SolidColorBrush x:Key="DarkTheme.ToastMessageBgc" Color="#323232"/>
+    <SolidColorBrush x:Key="DarkTheme.SecondaryButton" Color="#f96816"/>
+    <SolidColorBrush x:Key="DarkTheme.Button" Color="#dd7522"/>
+
+    <SolidColorBrush x:Key="DarkTheme.Highlighter" Color="#4ec662"/>
+    <SolidColorBrush x:Key="DarkTheme.NavBarBackground" Color="#242a36"/>
+    <SolidColorBrush x:Key="DarkTheme.NavBarTextColour" Color="#dd7522"/>
+    <SolidColorBrush x:Key="DarkTheme.Background" Color="#242a36"/>
+    <SolidColorBrush x:Key="DarkTheme.Section" Color="#f2f3f3"/>
+    <SolidColorBrush x:Key="DarkTheme.TextColour" Color="#8899a6"/>
+    <SolidColorBrush x:Key="DarkTheme.PlaceholderTextColour" Color="#dd7522"/>
+    <SolidColorBrush x:Key="DarkTheme.ErrorTextColor" Color="#f97170"/>
+    <SolidColorBrush x:Key="DarkTheme.Blog" Color="#242a36"/>
+    <SolidColorBrush x:Key="DarkTheme.MessageItemBgColor" Color="#598cff"/>
+
+    <SolidColorBrush x:Key="DarkTheme.MessageBoxBackground" Color="#efe3de"/>
+    <SolidColorBrush x:Key="DarkTheme.DashboardBackground" Color="#242a36"/>
+    <SolidColorBrush x:Key="DarkTheme.TabBarBackground" Color="#242a36"/>
+
+    <SolidColorBrush x:Key="DarkTheme.TabBarBottomBackground" Color="#293e53"/>
+    <SolidColorBrush x:Key="DarkTheme.NavigationDrawer" Color="#242a36"/>
+    <SolidColorBrush x:Key="DarkTheme.BottomDrawer" Color="#242a36"/>
+    <SolidColorBrush x:Key="DarkTheme.HyperlinksTextColour" Color="#1da1f2"/>
+    <SolidColorBrush x:Key="DarkTheme.TabBarTextColour" Color="#dd7522"/>
+
+    <SolidColorBrush x:Key="DarkTheme.LocalKeyboardBgColour" Color="#16202a"/>
+    <SolidColorBrush x:Key="DarkTheme.LocalKeyboardBgTextColour" Color="#8d9296"/>
+    <SolidColorBrush x:Key="DarkTheme.BottomNavBarTextColor" Color="#626262"/>
+    <SolidColorBrush x:Key="DarkTheme.BottomLowerNavBarTextColor" Color="#a6aeb1"/>
+
+    <!--Media Background Colors-->
+    <SolidColorBrush x:Key="DarkTheme.MediaBackground" Color="#242a36"/>
+    <SolidColorBrush x:Key="DarkTheme.NavBar" Color="#1f242e"/>
+
+    <!--Rim Colour-->
+    <SolidColorBrush x:Key="DarkTheme.RimSelectionBackground" Color="#e59161"/>
+    <SolidColorBrush x:Key="DarkTheme.RimBackground" Color="#cdcbce"/>
+
+    <!--Profile Page-->
+    <SolidColorBrush x:Key="DarkTheme.BlockedUser" Color="#ec1c24"/>
+    <SolidColorBrush x:Key="DarkTheme.EditProfileBtnColour" Color="#8899a6"/>
+    <SolidColorBrush x:Key="DarkTheme.FollowProfileBtnColour" Color="#2a93db"/>
+
+    <!--Messaging-->
+    <SolidColorBrush x:Key="DarkTheme.RemoteMessage" Color="#ebebeb"/>
+    <SolidColorBrush x:Key="DarkTheme.LocalMessage" Color="#ffb785"/>
+
+    <!--Reporting Colours-->
+    <SolidColorBrush x:Key="DarkTheme.FlaggingSelected" Color="#006d5b"/>
+    <SolidColorBrush x:Key="DarkTheme.BackButton" Color="#44cc88"/>
+    <SolidColorBrush x:Key="DarkTheme.IconButtons" Color="#faaa59"/>
+
+    <!--NavBar Items-->
+    <SolidColorBrush x:Key="NavigationViewSelectionIndicatorForeground"
+                 Color="#faaa59" />
+    
+    <!--Acrylic Bruses-->
+    <AcrylicBrush x:Key="MyAcrylicBrush"
+            BackgroundSource="Backdrop"
+            TintColor="#FFFF0000"
+            TintOpacity="0.4"
+            TintLuminosityOpacity="0.5"
+            FallbackColor="#FF7F0000"/>
+
+    <AcrylicBrush x:Key="NavigationViewDefaultPaneBackground"
+                  BackgroundSource="Backdrop"
+                  TintColor="Black" 
+                  TintOpacity="0.4"
+                  TintLuminosityOpacity="0.4"
+                  FallbackColor="Black"/>
+
+    <AcrylicBrush x:Key="PivotBarBackground"
+                  BackgroundSource="Backdrop"
+                  TintColor="Black" 
+                  TintOpacity="0.6"
+                  TintLuminosityOpacity="0.6"
+                  FallbackColor="Black"/>
+</ResourceDictionary>
