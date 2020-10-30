@@ -12,6 +12,7 @@ namespace IMDBConsumer.UWP.Client.Adapters
     using System;
     using System.Collections.Generic;
     using System.Threading.Tasks;
+    using Xamarin.Essentials;
 
     /// <summary>
     /// Adapater around NavigationPage that implements INavigationService
@@ -246,7 +247,7 @@ namespace IMDBConsumer.UWP.Client.Adapters
         /// <returns> Whether or not navigation succeeded. </returns>
         public virtual bool Navigate(Type sourcePageType)
         {
-            CoreDispatcher.RunAsync(() => frame.Navigate(sourcePageType, null, new Windows.UI.Xaml.Media.Animation.DrillInNavigationTransitionInfo()));
+            MainThread.BeginInvokeOnMainThread(() => frame.Navigate(sourcePageType, null, new Windows.UI.Xaml.Media.Animation.DrillInNavigationTransitionInfo()));
             return true;
         }
 
@@ -258,7 +259,7 @@ namespace IMDBConsumer.UWP.Client.Adapters
         /// <returns> Whether or not navigation succeeded. </returns>
         public virtual bool Navigate(Type sourcePageType, object parameter)
         {
-            MainThread.InvokeOnMainThreadAsync(() => frame.Navigate(sourcePageType, parameter, new Windows.UI.Xaml.Media.Animation.DrillInNavigationTransitionInfo()));
+            MainThread.BeginInvokeOnMainThread(() => frame.Navigate(sourcePageType, parameter, new Windows.UI.Xaml.Media.Animation.DrillInNavigationTransitionInfo()));
             return true;
         }
 
@@ -267,7 +268,7 @@ namespace IMDBConsumer.UWP.Client.Adapters
         /// </summary>
         public virtual void GoForward()
         {
-            MainThread.InvokeOnMainThreadAsync(() => frame.GoForward());
+            MainThread.BeginInvokeOnMainThread(() => frame.GoForward());
         }
 
         /// <summary>
@@ -275,7 +276,7 @@ namespace IMDBConsumer.UWP.Client.Adapters
         /// </summary>
         public virtual void GoBack()
         {
-            MainThread.InvokeOnMainThreadAsync(() => frame.GoBack(new Windows.UI.Xaml.Media.Animation.DrillInNavigationTransitionInfo()));
+            MainThread.BeginInvokeOnMainThread(() => frame.GoBack(new Windows.UI.Xaml.Media.Animation.DrillInNavigationTransitionInfo()));
         }
 
         /// <summary>

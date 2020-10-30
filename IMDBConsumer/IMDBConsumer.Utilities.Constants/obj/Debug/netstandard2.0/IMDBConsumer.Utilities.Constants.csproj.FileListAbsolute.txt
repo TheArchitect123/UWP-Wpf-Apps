@@ -1,0 +1,8 @@
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Constants\bin\Debug\netstandard2.0\IMDBConsumer.Utilities.Constants.deps.json
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Constants\bin\Debug\netstandard2.0\IMDBConsumer.Utilities.Constants.dll
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Constants\bin\Debug\netstandard2.0\IMDBConsumer.Utilities.Constants.pdb
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Constants\obj\Debug\netstandard2.0\IMDBConsumer.Utilities.Constants.AssemblyInfoInputs.cache
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Constants\obj\Debug\netstandard2.0\IMDBConsumer.Utilities.Constants.AssemblyInfo.cs
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Constants\obj\Debug\netstandard2.0\IMDBConsumer.Utilities.Constants.csproj.CoreCompileInputs.cache
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Constants\obj\Debug\netstandard2.0\IMDBConsumer.Utilities.Constants.dll
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Constants\obj\Debug\netstandard2.0\IMDBConsumer.Utilities.Constants.pdb

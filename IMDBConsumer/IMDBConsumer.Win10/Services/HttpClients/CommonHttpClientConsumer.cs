@@ -1,7 +1,6 @@
 ﻿
 using IMDBConsumer.Utilities.Constants;
-using IMDBConsumer.Utilities.Extensions;
-using CryptoCoin.Uwp.Services.Security;
+using IMDBConsumer.Uwp.Services.Security;
 using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.Text;

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace IMDBConsumer.Win10.ViewModels.Flyout
 {
-    class SearchMoviesViewModel
+    public class SearchMoviesViewModel : FlyoutBaseViewModel
     {
+
     }
 }

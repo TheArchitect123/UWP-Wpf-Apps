@@ -13,6 +13,8 @@
                 message = "An unknown error has occurred";
 
             //Output a local notification here
+
+
             LogExtensions.LogException(ex);
             return ex;
         }

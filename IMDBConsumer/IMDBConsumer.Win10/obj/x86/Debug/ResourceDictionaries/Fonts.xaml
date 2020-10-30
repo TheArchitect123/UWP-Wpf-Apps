@@ -1,0 +1,25 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+
+    <!--Make sure to import some robotico fonts to enable UI optimization for material design-->
+    <x:String x:Key="FontFamily.RoboticoLight">fonts/Roboto-Light.ttf#Roboto-Light</x:String>
+    <x:String x:Key="FontFamily.Roboto-LightItalic">fonts/Roboto-LightItalic.ttf#Roboto-LightItalic</x:String>
+
+    <x:String x:Key="FontFamily.Roboto-Italic">fonts/Roboto-Italic.ttf#Roboto-Italic</x:String>
+
+    <x:String x:Key="FontFamily.RoboticoBlack">fonts/Roboto-Black.ttf#Roboto-Black</x:String>
+    <x:String x:Key="FontFamily.RoboticoBlackItalic">fonts/Roboto-BlackItalic.ttf#Roboto-BlackItalic</x:String>
+
+    <x:String x:Key="FontFamily.RoboticoBold">fonts/Roboto-Bold.ttf#Roboto-Bold</x:String>
+    <x:String x:Key="FontFamily.RoboticoBoldItalic">fonts/Roboto-BoldItalic.ttf#Roboto-BoldItalic</x:String>
+
+    <x:String x:Key="FontFamily.RoboticoMedium">fonts/Roboto-Medium.ttf#Roboto-Medium</x:String>
+    <x:String x:Key="FontFamily.RoboticoMediumItalic">fonts/Roboto-MediumItalic.ttf#Roboto-MediumItalic</x:String>
+
+    <x:String x:Key="FontFamily.RoboticoRegular">fonts/Roboto-Regular.ttf#Roboto-Regular</x:String>
+
+    <x:String x:Key="FontFamily.RoboticoThin">fonts/Roboto-Thin.ttf#Roboto-Thin</x:String>
+    <x:String x:Key="FontFamily.RoboticoThinItalic">fonts/Roboto-ThinItalic.ttf#Roboto-ThinItalic</x:String>
+</ResourceDictionary>
+

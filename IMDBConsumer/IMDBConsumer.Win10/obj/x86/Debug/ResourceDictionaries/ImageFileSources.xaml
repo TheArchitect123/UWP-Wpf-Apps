@@ -1,0 +1,48 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <x:String x:Key="FacebookSource">/Assets/social/facebook.png</x:String>
+    <x:String x:Key="GoogleSource">/Assets/social/googleauth.png</x:String>
+    <x:String x:Key="InstagramSource">/Assets/social/instagram.png</x:String>
+    <x:String x:Key="LinkedInSource">/Assets/social/linkedIn.png</x:String>
+    <x:String x:Key="TwitterSource">/Assets/social/twitter.png</x:String>
+
+    <x:String x:Key="LockIconSource">/Assets/ic_lock_custom_48dp.png</x:String>
+    <x:String x:Key="DefaultAvatarSource">/Assets/security/contact.png</x:String>
+    <x:String x:Key="AppIconSource">/Assets/appbaricon.png</x:String>
+
+    <!--Arrow Resources-->
+    <x:String x:Key="ArrowIconDownSource">/Assets/other/ic_keyboard_arrow_down_white_48dp.png</x:String>
+    <x:String x:Key="MapsIconSource">/Assets/other/ic_navigation_custom_48dp.png</x:String>
+    <x:String x:Key="CheckmarkIconSource">/Assets/other/ic_check_white_48dp.png</x:String>
+
+    <x:String x:Key="BackButtonIconSource">/Assets/ic_keyboard_arrow_left_white_48dp.png</x:String>
+    <x:String x:Key="SettingsIconSource">/Assets/ic_settings_white_48dp.png</x:String>
+    
+    <!--Avg Services-->
+    <x:String x:Key="ScanningIconSource">/Assets/services/filescan.png</x:String>
+    <x:String x:Key="WebEmailIconSource">/Assets/services/emailprotection.png</x:String>
+    <x:String x:Key="CloudIconSource">/Assets/services/cloud.png</x:String>
+    <x:String x:Key="HackerIconSource">/Assets/services/hacker.png</x:String>
+    <x:String x:Key="FirewallIconSource">/Assets/services/firewall.png</x:String>
+    <x:String x:Key="RansomwareIconSource">/Assets/services/scanservice.png</x:String>
+
+
+    <!--Core Services-->
+    <x:String x:Key="FileProtectIconSource">/Assets/fileprotection/fileprotect.png</x:String>
+    <x:String x:Key="QuarantineIconSource">/Assets/fileprotection/quarantine.png</x:String>
+    
+    <!--Disabled Services-->
+    <x:String x:Key="DisabledHackerIconSource">/Assets/services/hackerdisabled.png</x:String>
+    <x:String x:Key="DisabledRansomwareIconSource">/Assets/services/ransomwaredisabled.png</x:String>
+    
+    
+    <!--Scanning Services-->
+    <x:String x:Key="BiosScanIconSource">/Assets/services/biosscan.png</x:String>
+    <x:String x:Key="DeepScanIconSource">/Assets/services/deepscan.png</x:String>
+    <x:String x:Key="PerformanceScanIconSource">/Assets/services/performancescan.png</x:String>
+    <x:String x:Key="RemoteScanIconSource">/Assets/services/remotescan.png</x:String>
+    <x:String x:Key="UsbScanIconSource">/Assets/services/usbscan.png</x:String>
+    <x:String x:Key="ScheduleScanIconSource">/Assets/services/schedulescan.png</x:String>
+</ResourceDictionary>
+

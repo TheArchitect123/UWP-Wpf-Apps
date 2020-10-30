@@ -1,0 +1,9 @@
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Collections\bin\Debug\netstandard2.0\IMDBConsumer.Utilities.Collections.deps.json
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Collections\bin\Debug\netstandard2.0\IMDBConsumer.Utilities.Collections.dll
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Collections\bin\Debug\netstandard2.0\IMDBConsumer.Utilities.Collections.pdb
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Collections\obj\Debug\netstandard2.0\IMDBConsumer.Utilities.Collections.csprojAssemblyReference.cache
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Collections\obj\Debug\netstandard2.0\IMDBConsumer.Utilities.Collections.AssemblyInfoInputs.cache
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Collections\obj\Debug\netstandard2.0\IMDBConsumer.Utilities.Collections.AssemblyInfo.cs
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Collections\obj\Debug\netstandard2.0\IMDBConsumer.Utilities.Collections.csproj.CoreCompileInputs.cache
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Collections\obj\Debug\netstandard2.0\IMDBConsumer.Utilities.Collections.dll
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Collections\obj\Debug\netstandard2.0\IMDBConsumer.Utilities.Collections.pdb

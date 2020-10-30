@@ -1,0 +1,8 @@
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Web.Dto\bin\Debug\netstandard2.0\IMDBConsumer.Web.Dto.deps.json
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Web.Dto\bin\Debug\netstandard2.0\IMDBConsumer.Web.Dto.dll
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Web.Dto\bin\Debug\netstandard2.0\IMDBConsumer.Web.Dto.pdb
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Web.Dto\obj\Debug\netstandard2.0\IMDBConsumer.Web.Dto.AssemblyInfoInputs.cache
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Web.Dto\obj\Debug\netstandard2.0\IMDBConsumer.Web.Dto.AssemblyInfo.cs
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Web.Dto\obj\Debug\netstandard2.0\IMDBConsumer.Web.Dto.csproj.CoreCompileInputs.cache
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Web.Dto\obj\Debug\netstandard2.0\IMDBConsumer.Web.Dto.dll
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Web.Dto\obj\Debug\netstandard2.0\IMDBConsumer.Web.Dto.pdb

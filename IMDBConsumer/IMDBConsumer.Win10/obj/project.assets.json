@@ -302,6 +302,20 @@
           "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {}
         }
       },
+      "Microsoft.Extensions.Http.Polly/3.1.9": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Http": "3.1.9",
+          "Polly": "7.1.0",
+          "Polly.Extensions.Http": "3.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll": {}
+        }
+      },
       "Microsoft.Extensions.Logging/3.1.9": {
         "type": "package",
         "dependencies": {
@@ -1703,6 +1717,18 @@
           }
         }
       },
+      "Xamarin.Essentials/1.5.3.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.9"
+        },
+        "compile": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        }
+      },
       "IMDBConsumer.Utilities.Collections/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -2067,6 +2093,20 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Http.Polly/3.1.9": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Http": "3.1.9",
+          "Polly": "7.1.0",
+          "Polly.Extensions.Http": "3.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll": {}
         }
       },
       "Microsoft.Extensions.Logging/3.1.9": {
@@ -3779,6 +3819,18 @@
           "build/win10/_._": {}
         }
       },
+      "Xamarin.Essentials/1.5.3.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.9"
+        },
+        "compile": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        }
+      },
       "IMDBConsumer.Utilities.Collections/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -4143,6 +4195,20 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Http.Polly/3.1.9": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Http": "3.1.9",
+          "Polly": "7.1.0",
+          "Polly.Extensions.Http": "3.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll": {}
         }
       },
       "Microsoft.Extensions.Logging/3.1.9": {
@@ -5886,6 +5952,18 @@
           "build/win10/_._": {}
         }
       },
+      "Xamarin.Essentials/1.5.3.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.9"
+        },
+        "compile": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        }
+      },
       "IMDBConsumer.Utilities.Collections/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -6250,6 +6328,20 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Http.Polly/3.1.9": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Http": "3.1.9",
+          "Polly": "7.1.0",
+          "Polly.Extensions.Http": "3.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll": {}
         }
       },
       "Microsoft.Extensions.Logging/3.1.9": {
@@ -7993,6 +8085,18 @@
           "build/win10/_._": {}
         }
       },
+      "Xamarin.Essentials/1.5.3.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.9"
+        },
+        "compile": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        }
+      },
       "IMDBConsumer.Utilities.Collections/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -8357,6 +8461,20 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Http.Polly/3.1.9": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Http": "3.1.9",
+          "Polly": "7.1.0",
+          "Polly.Extensions.Http": "3.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll": {}
         }
       },
       "Microsoft.Extensions.Logging/3.1.9": {
@@ -10069,6 +10187,18 @@
           "build/win10/_._": {}
         }
       },
+      "Xamarin.Essentials/1.5.3.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.9"
+        },
+        "compile": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        }
+      },
       "IMDBConsumer.Utilities.Collections/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -10433,6 +10563,20 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Http.Polly/3.1.9": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Http": "3.1.9",
+          "Polly": "7.1.0",
+          "Polly.Extensions.Http": "3.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll": {}
         }
       },
       "Microsoft.Extensions.Logging/3.1.9": {
@@ -12176,6 +12320,18 @@
           "build/win10/_._": {}
         }
       },
+      "Xamarin.Essentials/1.5.3.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.9"
+        },
+        "compile": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        }
+      },
       "IMDBConsumer.Utilities.Collections/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -12540,6 +12696,20 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Http.Polly/3.1.9": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Http": "3.1.9",
+          "Polly": "7.1.0",
+          "Polly.Extensions.Http": "3.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll": {}
         }
       },
       "Microsoft.Extensions.Logging/3.1.9": {
@@ -14252,6 +14422,18 @@
           "build/win10/_._": {}
         }
       },
+      "Xamarin.Essentials/1.5.3.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.9"
+        },
+        "compile": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        }
+      },
       "IMDBConsumer.Utilities.Collections/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -14616,6 +14798,20 @@
         },
         "runtime": {
           "lib/netstandard2.0/Microsoft.Extensions.Http.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Http.Polly/3.1.9": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.Extensions.Http": "3.1.9",
+          "Polly": "7.1.0",
+          "Polly.Extensions.Http": "3.0.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll": {}
         }
       },
       "Microsoft.Extensions.Logging/3.1.9": {
@@ -16359,6 +16555,18 @@
           "build/win10/_._": {}
         }
       },
+      "Xamarin.Essentials/1.5.3.2": {
+        "type": "package",
+        "dependencies": {
+          "Microsoft.NETCore.UniversalWindowsPlatform": "6.2.9"
+        },
+        "compile": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        },
+        "runtime": {
+          "lib/uap10.0.16299/Xamarin.Essentials.dll": {}
+        }
+      },
       "IMDBConsumer.Utilities.Collections/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -16879,6 +17087,20 @@
         "lib/netstandard2.0/Microsoft.Extensions.Http.xml",
         "microsoft.extensions.http.3.1.9.nupkg.sha512",
         "microsoft.extensions.http.nuspec"
+      ]
+    },
+    "Microsoft.Extensions.Http.Polly/3.1.9": {
+      "sha512": "2LI7RHly6l4E1X3tnkoGB3LGgfaP7nj6HDuyIT+/gzeF53Fxq2zBYuGstobMCECdZTWtvNg47bKm85QnWM2zkQ==",
+      "type": "package",
+      "path": "microsoft.extensions.http.polly/3.1.9",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.Http.Polly.xml",
+        "microsoft.extensions.http.polly.3.1.9.nupkg.sha512",
+        "microsoft.extensions.http.polly.nuspec"
       ]
     },
     "Microsoft.Extensions.Logging/3.1.9": {
@@ -25036,6 +25258,54 @@
         "win2d.uwp.nuspec"
       ]
     },
+    "Xamarin.Essentials/1.5.3.2": {
+      "sha512": "BSLgDJUOPFRwTpQaftM+s4qb/MsTjrqXulEYDOcK6KF3i0Orf75zo3RwRfqnQ8WfpoEFxW/v0jgcPWCvOMgHxg==",
+      "type": "package",
+      "path": "xamarin.essentials/1.5.3.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "icon.png",
+        "lib/monoandroid10.0/Xamarin.Essentials.dll",
+        "lib/monoandroid10.0/Xamarin.Essentials.pdb",
+        "lib/monoandroid10.0/Xamarin.Essentials.xml",
+        "lib/monoandroid80/Xamarin.Essentials.dll",
+        "lib/monoandroid80/Xamarin.Essentials.pdb",
+        "lib/monoandroid80/Xamarin.Essentials.xml",
+        "lib/monoandroid81/Xamarin.Essentials.dll",
+        "lib/monoandroid81/Xamarin.Essentials.pdb",
+        "lib/monoandroid81/Xamarin.Essentials.xml",
+        "lib/monoandroid90/Xamarin.Essentials.dll",
+        "lib/monoandroid90/Xamarin.Essentials.pdb",
+        "lib/monoandroid90/Xamarin.Essentials.xml",
+        "lib/netstandard1.0/Xamarin.Essentials.dll",
+        "lib/netstandard1.0/Xamarin.Essentials.pdb",
+        "lib/netstandard1.0/Xamarin.Essentials.xml",
+        "lib/netstandard2.0/Xamarin.Essentials.dll",
+        "lib/netstandard2.0/Xamarin.Essentials.pdb",
+        "lib/netstandard2.0/Xamarin.Essentials.xml",
+        "lib/tizen40/Xamarin.Essentials.dll",
+        "lib/tizen40/Xamarin.Essentials.pdb",
+        "lib/tizen40/Xamarin.Essentials.xml",
+        "lib/uap10.0.16299/Xamarin.Essentials.dll",
+        "lib/uap10.0.16299/Xamarin.Essentials.pdb",
+        "lib/uap10.0.16299/Xamarin.Essentials.pri",
+        "lib/uap10.0.16299/Xamarin.Essentials.xml",
+        "lib/xamarinios10/Xamarin.Essentials.dll",
+        "lib/xamarinios10/Xamarin.Essentials.pdb",
+        "lib/xamarinios10/Xamarin.Essentials.xml",
+        "lib/xamarintvos10/Xamarin.Essentials.dll",
+        "lib/xamarintvos10/Xamarin.Essentials.pdb",
+        "lib/xamarintvos10/Xamarin.Essentials.xml",
+        "lib/xamarinwatchos10/Xamarin.Essentials.dll",
+        "lib/xamarinwatchos10/Xamarin.Essentials.pdb",
+        "lib/xamarinwatchos10/Xamarin.Essentials.xml",
+        "readme.txt",
+        "xamarin.essentials.1.5.3.2.nupkg.sha512",
+        "xamarin.essentials.nuspec"
+      ]
+    },
     "IMDBConsumer.Utilities.Collections/1.0.0": {
       "type": "project",
       "path": "../IMDBConsumer.Utilities.Collections/IMDBConsumer.Utilities.Collections.csproj",
@@ -25077,8 +25347,11 @@
       "IMDBConsumer.Utilities.Extensions >= 1.0.0",
       "IMDBConsumer.Utilities.Services >= 1.0.0",
       "IMDBConsumer.Web.Dto >= 1.0.0",
+      "Microsoft.Extensions.Configuration >= 3.1.9",
+      "Microsoft.Extensions.DependencyInjection >= 3.1.9",
       "Microsoft.Extensions.Hosting >= 3.1.9",
       "Microsoft.Extensions.Http >= 3.1.9",
+      "Microsoft.Extensions.Http.Polly >= 3.1.9",
       "Microsoft.NETCore.UniversalWindowsPlatform >= 6.2.10",
       "Microsoft.Toolkit.Uwp >= 6.1.1",
       "Microsoft.Toolkit.Uwp.Notifications >= 6.1.1",
@@ -25087,6 +25360,7 @@
       "Microsoft.Toolkit.Uwp.UI.Controls >= 6.1.1",
       "Polly >= 7.2.1",
       "Polly.Extensions.Http >= 3.0.0",
+      "Xamarin.Essentials >= 1.5.3.2",
       "sqlite-net-pcl >= 1.7.335"
     ]
   },
@@ -25157,11 +25431,23 @@
             "target": "Package",
             "version": "[3.2.0, )"
           },
+          "Microsoft.Extensions.Configuration": {
+            "target": "Package",
+            "version": "[3.1.9, )"
+          },
+          "Microsoft.Extensions.DependencyInjection": {
+            "target": "Package",
+            "version": "[3.1.9, )"
+          },
           "Microsoft.Extensions.Hosting": {
             "target": "Package",
             "version": "[3.1.9, )"
           },
           "Microsoft.Extensions.Http": {
+            "target": "Package",
+            "version": "[3.1.9, )"
+          },
+          "Microsoft.Extensions.Http.Polly": {
             "target": "Package",
             "version": "[3.1.9, )"
           },
@@ -25196,6 +25482,10 @@
           "Polly.Extensions.Http": {
             "target": "Package",
             "version": "[3.0.0, )"
+          },
+          "Xamarin.Essentials": {
+            "target": "Package",
+            "version": "[1.5.3.2, )"
           },
           "sqlite-net-pcl": {
             "target": "Package",

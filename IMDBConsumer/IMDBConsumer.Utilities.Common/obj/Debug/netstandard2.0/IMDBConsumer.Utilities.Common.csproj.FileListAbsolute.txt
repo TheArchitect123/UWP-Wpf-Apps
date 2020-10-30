@@ -1,0 +1,8 @@
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Common\bin\Debug\netstandard2.0\IMDBConsumer.Utilities.Common.deps.json
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Common\bin\Debug\netstandard2.0\IMDBConsumer.Utilities.Common.dll
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Common\bin\Debug\netstandard2.0\IMDBConsumer.Utilities.Common.pdb
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Common\obj\Debug\netstandard2.0\IMDBConsumer.Utilities.Common.AssemblyInfoInputs.cache
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Common\obj\Debug\netstandard2.0\IMDBConsumer.Utilities.Common.AssemblyInfo.cs
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Common\obj\Debug\netstandard2.0\IMDBConsumer.Utilities.Common.csproj.CoreCompileInputs.cache
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Common\obj\Debug\netstandard2.0\IMDBConsumer.Utilities.Common.dll
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Common\obj\Debug\netstandard2.0\IMDBConsumer.Utilities.Common.pdb

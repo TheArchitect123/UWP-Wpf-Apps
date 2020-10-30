@@ -5,6 +5,9 @@ using Windows.Storage;
 using IMDBConsumer.Utilities.Extensions;
 using IMDBConsumer.Services.Repositories;
 using IMDBConsumer.Utilities.Constants;
+using IMDBConsumer.Win10.ViewModels;
+using IMDBConsumer.Uwp.Services.HttpClients;
+using IMDBConsumer.Win10.Repositories.Sqlite;
 
 namespace IMDBConsumer.Uwp
 {
@@ -18,7 +21,9 @@ namespace IMDBConsumer.Uwp
             container
                //Base Screen View Model
                .PerRequest<BaseViewModel>()
-               .PerRequest<DrawboardProjectListItemsViewModel>()
+               .PerRequest<DashboardViewModel>()
+               .PerRequest<MoviePreviewerViewModel>()
+               .PerRequest<SettingsViewModel>()
                .Singleton<CommonHttpClientConsumer>();  //HttpClient
 
             RegisterWebServices.InitializeClientFactory(); //Register the HttpClientFactory 

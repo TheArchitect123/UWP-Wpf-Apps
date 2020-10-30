@@ -1,0 +1,1 @@
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Win10\IMDBConsumer.Win10.csproj;x86
