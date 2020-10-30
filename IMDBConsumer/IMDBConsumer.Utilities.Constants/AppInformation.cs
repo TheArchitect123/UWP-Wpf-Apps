@@ -7,6 +7,6 @@
         public const string Major = "0";
         public const string Build = "1.0.0";
 
-        public const string AppName = "Drawboard-DanGerchcovich";
+        public const string AppName = "IMDBConsumer-Dan Gerchcovich";
     }
 }

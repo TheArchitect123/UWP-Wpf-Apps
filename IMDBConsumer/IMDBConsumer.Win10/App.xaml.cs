@@ -2,6 +2,7 @@
 using IMDBConsumer.Uwp;
 using IMDBConsumer.Uwp.PlatformServices.Interfaces;
 using IMDBConsumer.UWP.Client.Adapters;
+using IMDBConsumer.Win10.Configuration;
 using IMDBConsumer.Win10.Views;
 using System;
 using System.Collections.Generic;
@@ -65,6 +66,9 @@ namespace IMDBConsumer.Win10
             RegisterInternalServices.RegisterViewModels(ref _container);
             RegisterInternalServices.RegisterSqliteEncryption(ref _container); //Enable Encryption on the Sqlite Storage
             Subscriptions();
+
+            //UI Configuration
+            WindowConfiguration.ConfigureApplicationShell();
         }
 
         protected override void PrepareViewFirst(Frame rootFrame)
