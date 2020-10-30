@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "P+6L3iaWUM006KxlMyrtAtNmfH3pz0hUrt3/4Jur3eUsI8BHWtoG+re9fpGea/W1CQ9DnncoHaLF+aWnUH10Nw==",
+  "success": true,
+  "projectFilePath": "C:\\WindowsUWP\\UWP-Wpf-Apps\\IMDBConsumer\\IMDBConsumer.Utilities.Constants\\IMDBConsumer.Utilities.Constants.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dan Gerchcovich\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dan Gerchcovich\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

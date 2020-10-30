@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Win10\Assets\AppIcon.png</Source>
+    <SmallTileSource>C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Win10\Assets\AppIcon.png</SmallTileSource>
+    <MediumTileSource>C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Win10\Assets\AppIcon.png</MediumTileSource>
+    <WideTileSource>C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Win10\Assets\AppIcon.png</WideTileSource>
+    <LargeTileSource>C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Win10\Assets\AppIcon.png</LargeTileSource>
+    <AppIconSource>C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Win10\Assets\AppIcon.png</AppIconSource>
+    <SplashScreenSource>C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Win10\Assets\AppIcon.png</SplashScreenSource>
+    <PackageLogoSource>C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Win10\Assets\AppIcon.png</PackageLogoSource>
+  </PropertyGroup>
+</Project>

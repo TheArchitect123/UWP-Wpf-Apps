@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "8xxBmy6dmQLnKgkbihEojlE7CFv3Kgo9qKF8mMOUPfzSdCWa2/T1e5Y08rzZUuVjxdNshWo3sNpQOsxH/pexug==",
+  "success": true,
+  "projectFilePath": "C:\\WindowsUWP\\UWP-Wpf-Apps\\IMDBConsumer\\IMDBConsumer.Utilities.Extensions\\IMDBConsumer.Utilities.Extensions.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dan Gerchcovich\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Dan Gerchcovich\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Dan Gerchcovich\\.nuget\\packages\\plugin.security\\1.0.2\\plugin.security.1.0.2.nupkg.sha512",
+    "C:\\Users\\Dan Gerchcovich\\.nuget\\packages\\system.diagnostics.eventlog\\4.7.0\\system.diagnostics.eventlog.4.7.0.nupkg.sha512",
+    "C:\\Users\\Dan Gerchcovich\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

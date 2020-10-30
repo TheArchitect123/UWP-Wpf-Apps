@@ -6,7 +6,7 @@ using Polly.Extensions.Http;
 using System;
 using System.Net.Http;
 using System.Net.Sockets;
-using Drawboard.Utilities.Extensions;
+using CryptoCoin.Utilities.Extensions;
 
 namespace CryptoCoin.Uwp
 {

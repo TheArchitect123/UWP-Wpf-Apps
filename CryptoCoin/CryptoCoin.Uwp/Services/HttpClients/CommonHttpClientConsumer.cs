@@ -39,6 +39,7 @@ namespace CryptoCoin.Uwp.Services.HttpClients
                     var result = await response.Content.ReadAsStringAsync();
                     if (!string.IsNullOrWhiteSpace(result))
                         responseToken = JsonConvert.DeserializeObject<Token>(result);
+
                 }
             }
 

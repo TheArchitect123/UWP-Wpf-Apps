@@ -2,12 +2,13 @@
 using SQLite;
 using System.IO;
 using Windows.Storage;
-using Drawboard.Utilities.Extensions;
+using CryptoCoin.Utilities.Extensions;
 using Drawboard.Domain.Repositories;
-using Drawboard.TechnicalAssessment.SqliteDriver;
+using CryptoCoin.TechnicalAssessment.SqliteDriver;
 using Drawboard.Utilities.Constants;
-using Drawboard.Uwp.ViewModels;
-using Drawboard.Uwp.Services.HttpClients;
+using CryptoCoin.Uwp.ViewModels;
+using CryptoCoin.Uwp.Services.HttpClients;
+using CryptoCoin.Utilities.Constants;
 
 namespace CryptoCoin.Uwp
 {
@@ -30,7 +31,7 @@ namespace CryptoCoin.Uwp
         public static void RegisterSqliteEncryption(ref WinRTContainer container)
         {
             //Initialize the Db directory, including access  
-            string directoryPath = Path.Combine(ApplicationData.Current.LocalFolder.Path, "DrawboardLocalData");
+            string directoryPath = Path.Combine(ApplicationData.Current.LocalFolder.Path, "CryptoCoinLocalData");
             if (!Directory.Exists(directoryPath))
                 Directory.CreateDirectory(directoryPath);
 

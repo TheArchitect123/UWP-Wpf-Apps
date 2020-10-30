@@ -1,0 +1,5 @@
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Extensions\bin\Debug\netstandard2.0\IMDBConsumer.Utilities.Extensions.deps.json
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Extensions\bin\Debug\netstandard2.0\IMDBConsumer.Utilities.Extensions.dll
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Extensions\obj\Debug\netstandard2.0\IMDBConsumer.Utilities.Extensions.csprojAssemblyReference.cache
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Extensions\obj\Debug\netstandard2.0\IMDBConsumer.Utilities.Extensions.AssemblyInfoInputs.cache
+C:\WindowsUWP\UWP-Wpf-Apps\IMDBConsumer\IMDBConsumer.Utilities.Extensions\obj\Debug\netstandard2.0\IMDBConsumer.Utilities.Extensions.AssemblyInfo.cs
