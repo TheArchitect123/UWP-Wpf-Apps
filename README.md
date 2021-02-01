@@ -14,7 +14,8 @@ UWP Applications:
 </br>
 <strong>Microsoft Store Link</strong>: https://www.microsoft.com/en-us/store/p/tongue-twister/9mzqdtq0z6lv
 
-
+</br>
+</br>
 MIT License
 
 <strong>Copyright (c) 2020 Dan Gerchcovich</strong>
